@@ -1,2 +1,11 @@
 Help: http://synergy-project.org/help/
 Wiki: http://synergy-project.org/wiki/
+
+jkeymod
+-------
+
+patched for japanese keyboard key VK_NONCONVERT (0x01d -> 0xEF22)
+based on http://d.hatena.ne.jp/desutai/20080304/1204598380
+
+日本語キーボードの無変換キー(VK_NONCONVERT 0x01d -> 0xEF22)対応パッチ適応版
+参考： http://d.hatena.ne.jp/desutai/20080304/1204598380
